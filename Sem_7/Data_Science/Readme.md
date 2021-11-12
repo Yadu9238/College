@@ -1,0 +1,1 @@
+Lab consisted of a mini project and our project can be accessed [here](https://github.com/tezz-io/ds_lab)
