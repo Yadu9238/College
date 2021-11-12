@@ -2,6 +2,6 @@ Q.Write  an  OpenMP  parallel  program  for  Points  Classification.  Prove  the
 
 To Run:
 ```
-gcc -o cluster -fopenmp cluster_pp.c -lm <br>
+gcc -o cluster -fopenmp cluster_pp.c -lm 
 ./cluster
 ```

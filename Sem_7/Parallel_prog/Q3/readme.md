@@ -3,6 +3,6 @@ Q.Write  an  OpenMP  program  which  demonstrates  how  to  "multitask", impleme
 
 To Run:
 ```
-gcc -o sin -fopenmp sin_pr.c -lm <br>
+gcc -o sin -fopenmp sin_pr.c -lm 
 ./sin
 ```

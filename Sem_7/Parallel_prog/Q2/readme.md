@@ -2,6 +2,6 @@ Q.Write a program to Multiply a matrix by a vector and get the result of the ope
 
 To Run:
 ```
-gcc -o matmul -fopenmp matmul.c <br>
+gcc -o matmul -fopenmp matmul.c 
 ./matmul
 ```

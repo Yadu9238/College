@@ -2,6 +2,6 @@ Q.Write  an  OpenMP  program  to  convert  a  color  image  to  black  and  whit
 
 To Run:
 ```
-gcc -o img -fopenmp img_bw.c -lgd <br>
+gcc -o img -fopenmp img_bw.c -lgd 
 ./img
 ```
